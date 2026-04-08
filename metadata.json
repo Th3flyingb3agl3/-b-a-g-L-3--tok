@@ -1,0 +1,8 @@
+{
+  "name": "Toxic BeagleTok",
+  "description": "The Troma-style horror edition of BeagleTok. Mutated beagles, toxic zoomies, and campy gore. Enter at your own risk.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
